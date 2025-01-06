@@ -1,0 +1,270 @@
+Fundamental solution to x^2-dy^2=1 for d=2 is x=3, y=2:
+Fundamental solution to x^2-dy^2=-1 for d=2 is x=1, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=3 is x=2, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=3
+
+Fundamental solution to x^2-dy^2=1 for d=5 is x=9, y=4:
+Fundamental solution to x^2-dy^2=-1 for d=5 is x=2, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=6 is x=5, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=6
+
+Fundamental solution to x^2-dy^2=1 for d=7 is x=8, 3
+No solution to negative Pell equation x^2-dy^2=-1 for d=7
+
+Fundamental solution to x^2-dy^2=1 for d=8 is x=3, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=8
+
+Fundamental solution to x^2-dy^2=1 for d=10 is x=19, y=6:
+Fundamental solution to x^2-dy^2=-1 for d=10 is x=3, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=11 is x=10, 3
+No solution to negative Pell equation x^2-dy^2=-1 for d=11
+
+Fundamental solution to x^2-dy^2=1 for d=12 is x=7, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=12
+
+Fundamental solution to x^2-dy^2=1 for d=13 is x=649, y=180:
+Fundamental solution to x^2-dy^2=-1 for d=13 is x=18, y=5
+
+Fundamental solution to x^2-dy^2=1 for d=14 is x=15, 4
+No solution to negative Pell equation x^2-dy^2=-1 for d=14
+
+Fundamental solution to x^2-dy^2=1 for d=15 is x=4, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=15
+
+Fundamental solution to x^2-dy^2=1 for d=17 is x=33, y=8:
+Fundamental solution to x^2-dy^2=-1 for d=17 is x=4, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=18 is x=17, 4
+No solution to negative Pell equation x^2-dy^2=-1 for d=18
+
+Fundamental solution to x^2-dy^2=1 for d=19 is x=170, 39
+No solution to negative Pell equation x^2-dy^2=-1 for d=19
+
+Fundamental solution to x^2-dy^2=1 for d=20 is x=9, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=20
+
+Fundamental solution to x^2-dy^2=1 for d=21 is x=55, 12
+No solution to negative Pell equation x^2-dy^2=-1 for d=21
+
+Fundamental solution to x^2-dy^2=1 for d=22 is x=197, 42
+No solution to negative Pell equation x^2-dy^2=-1 for d=22
+
+Fundamental solution to x^2-dy^2=1 for d=23 is x=24, 5
+No solution to negative Pell equation x^2-dy^2=-1 for d=23
+
+Fundamental solution to x^2-dy^2=1 for d=24 is x=5, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=24
+
+Fundamental solution to x^2-dy^2=1 for d=26 is x=51, y=10:
+Fundamental solution to x^2-dy^2=-1 for d=26 is x=5, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=27 is x=26, 5
+No solution to negative Pell equation x^2-dy^2=-1 for d=27
+
+Fundamental solution to x^2-dy^2=1 for d=28 is x=127, 24
+No solution to negative Pell equation x^2-dy^2=-1 for d=28
+
+Fundamental solution to x^2-dy^2=1 for d=29 is x=9801, y=1820:
+Fundamental solution to x^2-dy^2=-1 for d=29 is x=70, y=13
+
+Fundamental solution to x^2-dy^2=1 for d=30 is x=11, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=30
+
+Fundamental solution to x^2-dy^2=1 for d=31 is x=1520, 273
+No solution to negative Pell equation x^2-dy^2=-1 for d=31
+
+Fundamental solution to x^2-dy^2=1 for d=32 is x=17, 3
+No solution to negative Pell equation x^2-dy^2=-1 for d=32
+
+Fundamental solution to x^2-dy^2=1 for d=33 is x=23, 4
+No solution to negative Pell equation x^2-dy^2=-1 for d=33
+
+Fundamental solution to x^2-dy^2=1 for d=34 is x=35, 6
+No solution to negative Pell equation x^2-dy^2=-1 for d=34
+
+Fundamental solution to x^2-dy^2=1 for d=35 is x=6, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=35
+
+Fundamental solution to x^2-dy^2=1 for d=37 is x=73, y=12:
+Fundamental solution to x^2-dy^2=-1 for d=37 is x=6, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=38 is x=37, 6
+No solution to negative Pell equation x^2-dy^2=-1 for d=38
+
+Fundamental solution to x^2-dy^2=1 for d=39 is x=25, 4
+No solution to negative Pell equation x^2-dy^2=-1 for d=39
+
+Fundamental solution to x^2-dy^2=1 for d=40 is x=19, 3
+No solution to negative Pell equation x^2-dy^2=-1 for d=40
+
+Fundamental solution to x^2-dy^2=1 for d=41 is x=2049, y=320:
+Fundamental solution to x^2-dy^2=-1 for d=41 is x=32, y=5
+
+Fundamental solution to x^2-dy^2=1 for d=42 is x=13, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=42
+
+Fundamental solution to x^2-dy^2=1 for d=43 is x=3482, 531
+No solution to negative Pell equation x^2-dy^2=-1 for d=43
+
+Fundamental solution to x^2-dy^2=1 for d=44 is x=199, 30
+No solution to negative Pell equation x^2-dy^2=-1 for d=44
+
+Fundamental solution to x^2-dy^2=1 for d=45 is x=161, 24
+No solution to negative Pell equation x^2-dy^2=-1 for d=45
+
+Fundamental solution to x^2-dy^2=1 for d=46 is x=24335, 3588
+No solution to negative Pell equation x^2-dy^2=-1 for d=46
+
+Fundamental solution to x^2-dy^2=1 for d=47 is x=48, 7
+No solution to negative Pell equation x^2-dy^2=-1 for d=47
+
+Fundamental solution to x^2-dy^2=1 for d=48 is x=7, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=48
+
+Fundamental solution to x^2-dy^2=1 for d=50 is x=99, y=14:
+Fundamental solution to x^2-dy^2=-1 for d=50 is x=7, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=51 is x=50, 7
+No solution to negative Pell equation x^2-dy^2=-1 for d=51
+
+Fundamental solution to x^2-dy^2=1 for d=52 is x=649, 90
+No solution to negative Pell equation x^2-dy^2=-1 for d=52
+
+Fundamental solution to x^2-dy^2=1 for d=53 is x=66249, y=9100:
+Fundamental solution to x^2-dy^2=-1 for d=53 is x=182, y=25
+
+Fundamental solution to x^2-dy^2=1 for d=54 is x=485, 66
+No solution to negative Pell equation x^2-dy^2=-1 for d=54
+
+Fundamental solution to x^2-dy^2=1 for d=55 is x=89, 12
+No solution to negative Pell equation x^2-dy^2=-1 for d=55
+
+Fundamental solution to x^2-dy^2=1 for d=56 is x=15, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=56
+
+Fundamental solution to x^2-dy^2=1 for d=57 is x=151, 20
+No solution to negative Pell equation x^2-dy^2=-1 for d=57
+
+Fundamental solution to x^2-dy^2=1 for d=58 is x=151, 20
+No solution to negative Pell equation x^2-dy^2=-1 for d=58
+
+Fundamental solution to x^2-dy^2=1 for d=59 is x=530, 69
+No solution to negative Pell equation x^2-dy^2=-1 for d=59
+
+Fundamental solution to x^2-dy^2=1 for d=60 is x=31, 4
+No solution to negative Pell equation x^2-dy^2=-1 for d=60
+
+Fundamental solution to x^2-dy^2=1 for d=61 is x=1766319049, y=226153980:
+Fundamental solution to x^2-dy^2=-1 for d=61 is x=29718, y=3805
+
+Fundamental solution to x^2-dy^2=1 for d=62 is x=63, 8
+No solution to negative Pell equation x^2-dy^2=-1 for d=62
+
+Fundamental solution to x^2-dy^2=1 for d=63 is x=8, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=63
+
+Fundamental solution to x^2-dy^2=1 for d=65 is x=129, y=16:
+Fundamental solution to x^2-dy^2=-1 for d=65 is x=8, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=66 is x=65, 8
+No solution to negative Pell equation x^2-dy^2=-1 for d=66
+
+Fundamental solution to x^2-dy^2=1 for d=67 is x=48842, 5967
+No solution to negative Pell equation x^2-dy^2=-1 for d=67
+
+Fundamental solution to x^2-dy^2=1 for d=68 is x=33, 4
+No solution to negative Pell equation x^2-dy^2=-1 for d=68
+
+Fundamental solution to x^2-dy^2=1 for d=69 is x=7775, 936
+No solution to negative Pell equation x^2-dy^2=-1 for d=69
+
+Fundamental solution to x^2-dy^2=1 for d=70 is x=251, 30
+No solution to negative Pell equation x^2-dy^2=-1 for d=70
+
+Fundamental solution to x^2-dy^2=1 for d=71 is x=3480, 413
+No solution to negative Pell equation x^2-dy^2=-1 for d=71
+
+Fundamental solution to x^2-dy^2=1 for d=72 is x=17, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=72
+
+Fundamental solution to x^2-dy^2=1 for d=73 is x=2281249, y=267000:
+Fundamental solution to x^2-dy^2=-1 for d=73 is x=1068, y=125
+
+Fundamental solution to x^2-dy^2=1 for d=74 is x=3699, y=430:
+Fundamental solution to x^2-dy^2=-1 for d=74 is x=43, y=5
+
+Fundamental solution to x^2-dy^2=1 for d=75 is x=26, 3
+No solution to negative Pell equation x^2-dy^2=-1 for d=75
+
+Fundamental solution to x^2-dy^2=1 for d=76 is x=57799, 6630
+No solution to negative Pell equation x^2-dy^2=-1 for d=76
+
+Fundamental solution to x^2-dy^2=1 for d=77 is x=351, 40
+No solution to negative Pell equation x^2-dy^2=-1 for d=77
+
+Fundamental solution to x^2-dy^2=1 for d=78 is x=53, 6
+No solution to negative Pell equation x^2-dy^2=-1 for d=78
+
+Fundamental solution to x^2-dy^2=1 for d=79 is x=80, 9
+No solution to negative Pell equation x^2-dy^2=-1 for d=79
+
+Fundamental solution to x^2-dy^2=1 for d=80 is x=9, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=80
+
+Fundamental solution to x^2-dy^2=1 for d=82 is x=163, y=18:
+Fundamental solution to x^2-dy^2=-1 for d=82 is x=9, y=1
+
+Fundamental solution to x^2-dy^2=1 for d=83 is x=82, 9
+No solution to negative Pell equation x^2-dy^2=-1 for d=83
+
+Fundamental solution to x^2-dy^2=1 for d=84 is x=55, 6
+No solution to negative Pell equation x^2-dy^2=-1 for d=84
+
+Fundamental solution to x^2-dy^2=1 for d=85 is x=285769, y=30996:
+Fundamental solution to x^2-dy^2=-1 for d=85 is x=378, y=41
+
+Fundamental solution to x^2-dy^2=1 for d=86 is x=285769, y=30996:
+Fundamental solution to x^2-dy^2=-1 for d=86 is x=378, y=41
+
+Fundamental solution to x^2-dy^2=1 for d=87 is x=28, 3
+No solution to negative Pell equation x^2-dy^2=-1 for d=87
+
+Fundamental solution to x^2-dy^2=1 for d=88 is x=197, 21
+No solution to negative Pell equation x^2-dy^2=-1 for d=88
+
+Fundamental solution to x^2-dy^2=1 for d=89 is x=500001, y=53000:
+Fundamental solution to x^2-dy^2=-1 for d=89 is x=500, y=53
+
+Fundamental solution to x^2-dy^2=1 for d=90 is x=19, 2
+No solution to negative Pell equation x^2-dy^2=-1 for d=90
+
+Fundamental solution to x^2-dy^2=1 for d=91 is x=1574, 165
+No solution to negative Pell equation x^2-dy^2=-1 for d=91
+
+Fundamental solution to x^2-dy^2=1 for d=92 is x=1151, 120
+No solution to negative Pell equation x^2-dy^2=-1 for d=92
+
+Fundamental solution to x^2-dy^2=1 for d=93 is x=12151, 1260
+No solution to negative Pell equation x^2-dy^2=-1 for d=93
+
+Fundamental solution to x^2-dy^2=1 for d=94 is x=2143295, 221064
+No solution to negative Pell equation x^2-dy^2=-1 for d=94
+
+Fundamental solution to x^2-dy^2=1 for d=95 is x=39, 4
+No solution to negative Pell equation x^2-dy^2=-1 for d=95
+
+Fundamental solution to x^2-dy^2=1 for d=96 is x=49, 5
+No solution to negative Pell equation x^2-dy^2=-1 for d=96
+
+Fundamental solution to x^2-dy^2=1 for d=97 is x=62809633, y=6377352:
+Fundamental solution to x^2-dy^2=-1 for d=97 is x=5604, y=569
+
+Fundamental solution to x^2-dy^2=1 for d=98 is x=99, 10
+No solution to negative Pell equation x^2-dy^2=-1 for d=98
+
+Fundamental solution to x^2-dy^2=1 for d=99 is x=10, 1
+No solution to negative Pell equation x^2-dy^2=-1 for d=99
+
